@@ -1,0 +1,2 @@
+F:\MPI实验\MPI\x64\Debug\MPI.exe
+F:\MPI实验\MPI\x64\Debug\MPI.pdb

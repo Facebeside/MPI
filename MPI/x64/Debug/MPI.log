@@ -1,0 +1,14 @@
+﻿  prime4.cpp
+F:\MPI实验\MPI\prime4.cpp(54,8): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+F:\MPI实验\MPI\prime4.cpp(111,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+F:\MPI实验\MPI\prime4.cpp(111,65): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+F:\MPI实验\MPI\prime4.cpp(147,19): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+F:\MPI实验\MPI\prime4.cpp(147,91): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+F:\MPI实验\MPI\prime4.cpp(174,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+F:\MPI实验\MPI\prime4.cpp(174,10): message : 请考虑在格式字符串中使用“%lld”
+F:\MPI实验\MPI\prime4.cpp(174,10): message : 请考虑在格式字符串中使用“%Id”
+F:\MPI实验\MPI\prime4.cpp(174,10): message : 请考虑在格式字符串中使用“%I64d”
+F:\MPI实验\MPI\prime4.cpp(174,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“__int64”
+F:\MPI实验\MPI\prime4.cpp(174,10): message : 请考虑在格式字符串中使用“%lld”
+F:\MPI实验\MPI\prime4.cpp(174,10): message : 请考虑在格式字符串中使用“%Id”
+F:\MPI实验\MPI\prime4.cpp(174,10): message : 请考虑在格式字符串中使用“%I64d”

@@ -1,0 +1,6 @@
+﻿MPI.obj : error LNK2019: 无法解析的外部符号 _MPI_Comm_size@8，函数 _main 中引用了该符号
+MPI.obj : error LNK2019: 无法解析的外部符号 _MPI_Comm_rank@8，函数 _main 中引用了该符号
+MPI.obj : error LNK2019: 无法解析的外部符号 _MPI_Init@8，函数 _main 中引用了该符号
+MPI.obj : error LNK2019: 无法解析的外部符号 _MPI_Finalize@0，函数 _main 中引用了该符号
+F:\SDK\Lib\x64\msmpi.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+F:\MPI实验\MPI\Debug\MPI.exe : fatal error LNK1120: 4 个无法解析的外部命令
